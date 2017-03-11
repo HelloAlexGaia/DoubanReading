@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoubanReading</string>
+    <string name="search">搜索</string>
+    <string name="clear">清除</string>
+    <string name="no_data">NO DATA</string>
+    <string name="check_internet">Please check your Internet or website</string>
+</resources>
